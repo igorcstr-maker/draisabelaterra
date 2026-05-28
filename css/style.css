@@ -395,6 +395,7 @@ p  { line-height: 1.75; color: var(--texto-m); font-size: .95rem; }
 /* texto */
 .sobre__txt h2 { margin-bottom: 1.25rem; }
 .sobre__txt p  { margin-bottom: 1rem; }
+.sobre__frase  { font-family: var(--serif); font-style: italic; color: var(--rose); font-size: 1.15rem; margin-bottom: 1.5rem !important; }
 
 .sobre__diferenciais { display: flex; flex-direction: column; gap: 1.25rem; margin: 2rem 0 2.5rem; }
 .sobre__diferenciais li { display: flex; align-items: flex-start; gap: 1rem; }
